@@ -27,6 +27,8 @@ public class Suit {
 		
 		System.out.println("Ignore Count = "+ ignoreCount);
 		
+		System.out.println("hi");
+		
 		
 	}
 	
